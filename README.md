@@ -6,42 +6,42 @@
 
 下面具体介绍一下界面：
 
-![](.\resources\play.gif)
+![](https://raw.githubusercontent.com/MaShantao/JzyOA/master/resources/play.gif)
 
 ## 1 登录页面
 
-![](.\resources\login.png)
+![](https://raw.githubusercontent.com/MaShantao/JzyOA/master/resources/login.png)
 
 ## 2  医院
 
 ### 2.1 医院列表
 
-![](.\resources\hospital-list.png)
+![](https://raw.githubusercontent.com/MaShantao/JzyOA/master/resources/hospital-list.png)
 
 ### 2.2 科室列表
 
-![](.\resources\department-list.png)
+![](https://raw.githubusercontent.com/MaShantao/JzyOA/master/resources/department-list.png)
 
 ## 3 样本列表
 
-![](.\resources\specimen-list.png)
+![](https://raw.githubusercontent.com/MaShantao/JzyOA/master/resources/specimen-list.png)
 
 添加/修改报告的页面
 
-![](.\resources\addSpecimen.png)
+![](https://raw.githubusercontent.com/MaShantao/JzyOA/master/resources/addSpecimen.png)
 
 ## 4 用户列表
 
-![](.\resources\userlist.png)
+![](https://raw.githubusercontent.com/MaShantao/JzyOA/master/resources/userlist.png)
 
 ## 5 角色列表
 
-![role-list](.\resources\role-list.png)
+![role-list](https://raw.githubusercontent.com/MaShantao/JzyOA/master/resources/role-list.png)
 
 ### 5.1 拓展列
 
-![](.\resources\role-listexpand.png)
+![](https://raw.githubusercontent.com/MaShantao/JzyOA/master/resources/role-listexpand.png)
 
 ### 5.2 设置权限
 
-![](.\resources\role-list-setright.png)
+![](https://raw.githubusercontent.com/MaShantao/JzyOA/master/resources/role-list-setright.png)
