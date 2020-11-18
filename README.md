@@ -45,4 +45,3 @@
 ### 5.2 设置权限
 
 ![](.\resources\role-list-setright.png)
-
