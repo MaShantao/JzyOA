@@ -2,7 +2,9 @@
 
 ​	黑龙江某医学检验中心的新冠病毒OA系统前端，使用的是Vue2.x+Elementui，是一个非常可以值得借鉴的后台管理系统的前端模板。需要的同学可以下载之后，在此基础上修改，然后用到自己的项目中。
 
-后端地址：https://github.com/MaShantao/JzyOABackend。整个项目比较普通，后端值得借鉴的是模板生成和后端跨域。
+后端地址：https://github.com/MaShantao/JzyOABackend
+
+整个项目比较普通，后端值得借鉴的是模板生成和后端跨域。
 
 下面具体介绍一下界面：
 
